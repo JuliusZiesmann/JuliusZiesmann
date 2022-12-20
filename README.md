@@ -30,24 +30,24 @@
      <br>
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=JuliusZiesmann&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=JuliusZiesmann&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=JuliusZiesmann&show_icons=true" />
 </picture>
    <br><br>
 
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diplocentrus&theme=dark&background=000000)](https://git.io/streak-stats)
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JuliusZiesmann&theme=dark&background=000000)](https://git.io/streak-stats)
     <br><br>
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diplocentrus&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliusZiesmann&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
    <br>
    <br>
-   [![trophy](https://github-profile-trophy.vercel.app/?username=diplocentrus&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+   [![trophy](https://github-profile-trophy.vercel.app/?username=JuliusZiesmann&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
     
   <!---
     diplocentrus/diplocentrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
