@@ -34,14 +34,14 @@
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=JuliusZiesmann&show_icons=true&theme=prussian"
+  srcset="https://github-readme-stats.vercel.app/api?username=JuliusZiesmann&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=JuliusZiesmann&show_icons=true" />
 </picture>
    <br><br>
 
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JuliusZiesmann&theme=dark&background=000000)](https://git.io/streak-stats)
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JuliusZiesmann&theme=prussian)](https://git.io/streak-stats)
     <br><br>
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliusZiesmann&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
