@@ -47,7 +47,7 @@
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliusZiesmann&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
    <br>
    <br>
-   [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia/?username=JuliusZiesmann&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+   [![trophy](https://github-profile-trophy.vercel.app/?username=JuliusZiesmann&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
     
     
   <!---
