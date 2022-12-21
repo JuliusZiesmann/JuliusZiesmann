@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://juzius.site/" target="_blank">Julius</a> 
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Student+developer+from+Ukraine<br>what+ i+love +about +tech:" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Student+developer+from+Ukraine& lines=what+i+love+about+tech:" alt="Typing SVG" /></a>
     <div align="center">
       <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
     </div>
