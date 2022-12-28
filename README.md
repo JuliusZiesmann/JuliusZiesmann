@@ -14,7 +14,7 @@
     - 💞️ I’m looking for help with java
     
   <br>
-    :hammer_and_wrench: LANGUAGES AND TOOLS :
+    🔤: LANGUAGES :
     <br><br>
     <div>
       <img src="https://user-images.githubusercontent.com/40461634/114240154-134cc400-9955-11eb-9ee7-84a0a2c7e5ba.png" title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -27,6 +27,12 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="PYTHON" **alt="PYTHON" width="40" height="40"/>
     </div>
+    🔄: TOOLS :
+    <br><br>
+    <div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+    </div>
+     <br>    
      <br>
 <picture>
 <source 
