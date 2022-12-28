@@ -14,7 +14,7 @@
     - 💞️ I’m looking for help with java
     
   <br>
-    🔤: LANGUAGES :
+    🔤 LANGUAGES:
     <br><br>
     <div>
       <img src="https://user-images.githubusercontent.com/40461634/114240154-134cc400-9955-11eb-9ee7-84a0a2c7e5ba.png" title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -22,15 +22,17 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="PYTHON" **alt="PYTHON" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="PYTHON" **alt="PYTHON" width="40" height="40"/>&nbsp;
     <br><br>
     </div>
-    🔄: TOOLS :
+    🔡  DATABASES:
     <br><br>
     <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+          <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_white.svg" title="MariaDB"  alt="MariaDb" width="40" height="40"/>&nbsp;
+
     </div>
      <br>    
      <br>
