@@ -32,7 +32,6 @@
     <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
           <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_white.svg" title="MariaDB"  alt="MariaDb" width="40" height="40"/>&nbsp;
-
     </div>
      <br>    
      <br>
